@@ -1,0 +1,11 @@
+.titulo {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    position: fixed;
+    width: 100vw;
+    top: 70px;
+    padding: 10px;
+    font-weight: normal;
+    font-size: 18px;
+}
+

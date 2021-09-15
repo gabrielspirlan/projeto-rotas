@@ -1,0 +1,19 @@
+.inicio, .fatec, .noturno, .ufscar, .unifran, .usp, .titulo, footer {
+    text-align: center;
+}
+
+.inicio {
+    height: 100vh;
+    background-color: rgb(125, 46, 253);
+}
+
+#confirmar {
+    margin: 6vh;
+}
+
+#logo {
+    width: 320px;
+    height: 160px;
+    align-items: center;
+}
+
