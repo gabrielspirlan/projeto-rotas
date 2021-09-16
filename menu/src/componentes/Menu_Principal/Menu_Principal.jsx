@@ -10,11 +10,12 @@ export default function Menu_Principal() {
         <div className="menu">
             <nav className="navMenu">
                 <ul>
-                    <li> <Link to="/FAFIBE"> FAFIBE </Link> </li>
-                    <li> <Link to="/FATEC"> FATEC </Link></li>
-                    <li> <Link to="/UFSCAR"> UFSCAR </Link></li>
-                    <li> <Link to="/UNIFRAN"> UNIFRAN </Link></li>
-                    <li> <Link to="/USP"> USP </Link></li>
+                    <li> <Link to="/"> Início </Link></li>
+                    <li> <Link to="/fafibe"> FAFIBE </Link> </li>
+                    <li> <Link to="/fatec"> FATEC </Link></li>
+                    <li> <Link to="/ufscar"> UFSCAR </Link></li>
+                    <li> <Link to="/unifran"> UNIFRAN </Link></li>
+                    <li> <Link to="/usp"> USP </Link></li>
                 </ul>
             </nav>
         </div>
